@@ -36,3 +36,4 @@ local.properties
 *.launch
 *.prefs
 /target/
+/github.info
