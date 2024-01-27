@@ -36,4 +36,6 @@ local.properties
 *.launch
 *.prefs
 /target/
+
+# External and custom Files
 /github.info
